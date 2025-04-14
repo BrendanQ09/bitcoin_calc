@@ -1,0 +1,5 @@
+# Ignore node_modules and related caches
+node_modules/
+
+# Ignore the production build folder
+build/
