@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bitcoin_calc/static/css/main.c61175c5.css",
+    "main.js": "/bitcoin_calc/static/js/main.4d7c3f61.js",
+    "index.html": "/bitcoin_calc/index.html",
+    "main.c61175c5.css.map": "/bitcoin_calc/static/css/main.c61175c5.css.map",
+    "main.4d7c3f61.js.map": "/bitcoin_calc/static/js/main.4d7c3f61.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c61175c5.css",
+    "static/js/main.4d7c3f61.js"
+  ]
+}
